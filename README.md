@@ -1,5 +1,5 @@
 # Feiyang Zheng
-![zhengfeiyang](image/zhengfeiyang.jpg)
+![zhengfeiyang](https://github.com/Mr-Jeffery/mr-jeffery.github.io/blob/main/image/zhengfeiyang.jpg)
 
 📍 Shenzhen, Guangdong, China  
 📧 [zhengfy2021@mail.sustech.edu.cn](mailto:zhengfy2021@mail.sustech.edu.cn)  
@@ -46,7 +46,7 @@ I am a Mathematics and Applied Mathematics undergraduate at Southern University 
 - Managed two-machine, eight-GPU inference system with DeepSpeed.
 - Enhanced computational throughput and scalability, achieving **Second Prize** in 6th Asia-Pacific HPC-AI Competition.
   
-  ![apac](image/apac.jpg)
+  ![apac](https://github.com/Mr-Jeffery/mr-jeffery.github.io/blob/main/image/apac.jpg)
 
 *More in my repositories!*
 
