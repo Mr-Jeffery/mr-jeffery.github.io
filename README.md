@@ -1,5 +1,5 @@
 # Feiyang Zheng
-<img src="https://github.com/Mr-Jeffery/mr-jeffery.github.io/blob/main/image/zhengfeiyang.jpg" alt="zhengfeiyang" width="300"/>
+<img src="https://raw.githubusercontent.com/Mr-Jeffery/mr-jeffery.github.io/main/image/zhengfeiyang.jpg" alt="zhengfeiyang" width="300"/>
 
 📍 Shenzhen, Guangdong, China  
 📧 [zhengfy2021@mail.sustech.edu.cn](mailto:zhengfy2021@mail.sustech.edu.cn)  
@@ -45,8 +45,7 @@ I am a Mathematics and Applied Mathematics undergraduate at Southern University 
 ### 3. **BLOOM Large Language Model Optimization**
 - Managed two-machine, eight-GPU inference system with DeepSpeed.
 - Enhanced computational throughput and scalability, achieving **Second Prize** in 6th Asia-Pacific HPC-AI Competition.
-  
-  ![apac](https://github.com/Mr-Jeffery/mr-jeffery.github.io/blob/main/image/apac.jpg)
+  <img src="https://raw.githubusercontent.com/Mr-Jeffery/mr-jeffery.github.io/main/image/apac.jpg" alt="apac" width="600"/>
 
 *More in my repositories!*
 
