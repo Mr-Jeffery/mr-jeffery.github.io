@@ -1,7 +1,6 @@
 # Feiyang Zheng
-![zhengfeiyang](https://github.com/Mr-Jeffery/mr-jeffery.github.io/blob/main/image/zhengfeiyang.jpg)
+<img src="https://github.com/Mr-Jeffery/mr-jeffery.github.io/blob/main/image/zhengfeiyang.jpg" alt="zhengfeiyang" width="300"/>
 
-<img src="(https://github.com/Mr-Jeffery/mr-jeffery.github.io/blob/main/image/zhengfeiyang.jpg" alt="zhengfeiyang" width="200"/>
 📍 Shenzhen, Guangdong, China  
 📧 [zhengfy2021@mail.sustech.edu.cn](mailto:zhengfy2021@mail.sustech.edu.cn)  
 🌐 [GitHub Profile](https://github.com/Mr-Jeffery)
