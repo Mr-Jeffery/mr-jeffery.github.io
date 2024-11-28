@@ -4,7 +4,7 @@
 📍 Shenzhen, Guangdong, China  
 📧 [zhengfy2021@mail.sustech.edu.cn](mailto:zhengfy2021@mail.sustech.edu.cn)  
 🌐 [GitHub Profile](https://github.com/Mr-Jeffery)  
-📄 [CV](https://drive.google.com/file/d/1z9v4_KDQcyn8s1iFzHfiACvSllhRmhZI/view?usp=drive_link)
+📄 [CV](https://raw.githubusercontent.com/Mr-Jeffery/mr-jeffery.github.io/main/FeiyangZheng.pdf)
 
 ---
 
