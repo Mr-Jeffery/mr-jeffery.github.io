@@ -1,10 +1,10 @@
 # Feiyang Zheng  
 <img src="https://raw.githubusercontent.com/Mr-Jeffery/mr-jeffery.github.io/main/image/zhengfeiyang.jpg" alt="zhengfeiyang" width="300"/>
 
-📍 [Raleigh, NC, United States](https://www.ncsu.edu/)
-📧 [fzheng4@ncsu.edu](mailto:fzheng4@ncsu.edu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/feiyang-zheng-2716b92b9/)  
-🌐 [GitHub Profile](https://github.com/Mr-Jeffery)  
+📍 [Raleigh, NC, United States](https://www.ncsu.edu/)\
+📧 [fzheng4@ncsu.edu](mailto:fzheng4@ncsu.edu)\
+🔗 [LinkedIn](https://www.linkedin.com/in/feiyang-zheng-2716b92b9/)\
+🌐 [GitHub Profile](https://github.com/Mr-Jeffery)\
 📄 [CV (PDF)](https://raw.githubusercontent.com/Mr-Jeffery/mr-jeffery.github.io/main/FeiyangZheng.pdf)
 
 ---
