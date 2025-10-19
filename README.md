@@ -1,7 +1,7 @@
 # Feiyang Zheng  
 <img src="https://raw.githubusercontent.com/Mr-Jeffery/mr-jeffery.github.io/main/image/zhengfeiyang.jpg" alt="zhengfeiyang" width="300"/>
 
-📍 Raleigh, NC, United States
+📍 Raleigh, NC, United States  
 📧 [fzheng4@ncsu.edu](mailto:fzheng4@ncsu.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/feiyang-zheng-2716b92b9/)  
 🌐 [GitHub Profile](https://github.com/Mr-Jeffery)  
@@ -55,15 +55,12 @@ I’m passionate about **bridging applied mathematics and system-level design** 
 🏅 **First Prize & Group Competition Award**, ASC 22–23 Final.  
 🔗 [Competition Link (WeChat)](https://mp.weixin.qq.com/s/0tYmQrZHdJSf8w9DXX_ltg)
 
----
 
 ### 🧩 **APAC 2023 HPC-AI Competition**  
 *Python, PyTorch, Nsight* *(2023)*  
 - Optimized **BLOOM** large-language-model inference for multi-node parallelism.  
 - Profiled and improved efficiency using **Nsight** and **Torch Profiler**.  
 🏅 **Second Place Winner**, [6th Asia-Pacific HPC-AI Competition](https://nci.org.au/news-events/news/innovation-winners-6th-asia-pacific-hpc-ai-student-competition).
-
----
 
 ### 📄 **GECCO 2025 Publication**  
 *C++, MATLAB, Evolutionary Algorithms* *(Sep 2024 – Feb 2025)*  
@@ -73,7 +70,6 @@ I’m passionate about **bridging applied mathematics and system-level design** 
 - Conducted experiments in **C++** and visualized results in **MATLAB**.  
 🔗 [DOI: 10.1145/3712256.3726411](https://doi.org/10.1145/3712256.3726411)
 
----
 
 ### ⚙️ **GEMM Implementations Project**  
 *C++, CUDA, OpenMP, SIMD, cuBLAS, VTune* *(Feb 2024 – Jul 2024)*  
