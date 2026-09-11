@@ -36,7 +36,7 @@ I am interested in **bridging applied mathematics and system-level design** — 
 ## 🎓 Education
 
 ### **North Carolina State University**, Raleigh, NC  
-**Ph.D. in Computer Science** *(Aug 2025 – Present)*  
+**Ph.D. in Computer Science** *(Aug 2025 – May 2030, expected)*  
 Co-advised by **Dr. Frank Mueller** and **Dr. Jiajia Li**.
 
 **Graduate coursework:** Architecture of Parallel Computers (CSC/ECE 506) · Advanced Computer Architecture (ECE 786) · Compiler Construction (CSC 512) · Code Optimization (CSC 766) · Numerical Analysis I (CSC 580)\* · Software Engineering (CSC 510)\*
@@ -67,6 +67,12 @@ Co-advised by **Dr. Frank Mueller** and **Dr. Jiajia Li**.
 
 ### **Teaching Assistant** — CSC 514: Foundations of Cryptography
 *North Carolina State University, Fall 2026*
+
+---
+
+## 🧾 Service
+
+- **Sub-reviewer**: ICS 2026 · [SSDBM 2026](https://ssdbm.org/2026/) · SC 2026
 
 ---
 
