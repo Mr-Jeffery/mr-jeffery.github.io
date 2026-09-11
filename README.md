@@ -45,6 +45,8 @@ Co-advised by **Dr. Frank Mueller** and **Dr. Jiajia Li**.
 ### **Southern University of Science and Technology (SUSTech)**, Shenzhen, China  
 **Bachelor of Science in Mathematics** *(Sep 2021 – Jun 2025)*
 
+**Selected CS coursework:** Operating Systems · Computer Organization · Digital Logic · Computer Networks · Data Structures and Algorithm Analysis (Honors) · Principles of Database Systems · Machine Learning · Scientific Computing
+
 ---
 
 ## 📄 Publications
