@@ -63,6 +63,9 @@ Co-advised by **Dr. Frank Mueller** and **Dr. Jiajia Li**.
 - Authored the programming assignments (parallel architecture, shared-memory programming) and a portion of the exam problems.
 - Graded assignments and supported students.
 
+### **Teaching Assistant** — CSC 514: Foundations of Cryptography
+*North Carolina State University, Fall 2026*
+
 ---
 
 ## 💼 Prior Experience
