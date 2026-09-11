@@ -13,7 +13,7 @@
 I am a **Computer Science PhD student at North Carolina State University**, co-advised by **Dr. Frank Mueller** and **Dr. Jiajia Li**.
 My research sits at the intersection of **high-performance computing**, **scientific data compression**, and **GPU systems**.
 
-Previously, I completed my **B.S. in Mathematics** at **Southern University of Science and Technology (SUSTech)**, where I gained hands-on experience in **supercomputing competitions**, **parallel programming**, and **large-scale AI model optimization**.
+Previously, I completed my **B.S. in Mathematics and Applied Mathematics** at **Southern University of Science and Technology (SUSTech)**, where I gained hands-on experience in **supercomputing competitions**, **parallel programming**, and **large-scale AI model optimization**.
 
 I am interested in **bridging applied mathematics and system-level design** — building faster, smarter computing systems through innovations in **tensor computation**, **floating-point representation**, and **parallel frameworks**.
 
@@ -43,7 +43,7 @@ Co-advised by **Dr. Frank Mueller** and **Dr. Jiajia Li**.
 <sub>\* in progress</sub>
 
 ### **Southern University of Science and Technology (SUSTech)**, Shenzhen, China  
-**Bachelor of Science in Mathematics** *(Sep 2021 – Jun 2025)*
+**Bachelor of Science in Mathematics and Applied Mathematics** *(Sep 2021 – Jun 2025)*
 
 **Selected CS coursework:** Operating Systems · Computer Organization · Digital Logic · Computer Networks · Data Structures and Algorithm Analysis (Honors) · Principles of Database Systems · Machine Learning · Scientific Computing
 
