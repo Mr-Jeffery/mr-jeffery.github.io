@@ -36,7 +36,7 @@ I am interested in **bridging applied mathematics and system-level design** — 
 ## 🎓 Education
 
 ### **North Carolina State University**, Raleigh, NC  
-**Ph.D. in Computer Science** *(Aug 2025 – May 2030, expected)* · GPA 3.75/4.00  
+**Ph.D. in Computer Science** *(Aug 2025 – May 2030, expected)* · GPA 3.75/4.3 
 Co-advised by **Dr. Frank Mueller** and **Dr. Jiajia Li**.
 
 **Graduate coursework:** Architecture of Parallel Computers (CSC/ECE 506) · Advanced Computer Architecture (ECE 786) · Compiler Construction (CSC 512) · Code Optimization (CSC 766) · Numerical Analysis I (CSC 580)\* · Software Engineering (CSC 510)\*
